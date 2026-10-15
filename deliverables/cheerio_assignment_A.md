@@ -80,7 +80,7 @@ Codex drafted strategy, built React/Vite, generated the workbook/report and ran 
 
 Failed part of the master task (“Add sanity checks and reconciliation checks”): the generated workbook passed base checks but divided by zero in sensitivity ratios and mapped impossible break-even to zero businesses. The skeptical review caught this by testing the saved file across all six sheets, without regenerating it first. Seven boundary formulas were corrected and base inputs linked; the repeat audit passed. The master prompt had both useful and failed outputs; no separate failed interaction is invented.
 
-My decisions so far: Assignment A, connection-first priority, three-issue scope and human-escalation rules supplied in this chat. No interviews, ticket review or firsthand platform use has occurred. Independent journey testing and financial review are pending; record actual decisions changed after doing them. AI evidence links supplied by the applicant; full URLs are recorded in submission_checklist.md. This session is not a public chat link.
+My decisions so far: Assignment A, connection-first priority, three-issue scope and human-escalation rules supplied in this chat. No interviews, ticket review or firsthand platform use has occurred. Independent journey testing and financial review are pending; record actual decisions changed after doing them. AI evidence: https://chatgpt.com/s/cx_6ad08b445a508191bd5b7f4198b1534e | Drive: https://drive.google.com/file/d/1OgBfmudySJ_BoaFR-ZvifwrtKhS3HQnU/view?usp=sharing. This session is not a public chat link.
 
 
 <div style="page-break-after: always;"></div>
