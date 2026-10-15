@@ -89,7 +89,7 @@ Costs, billing and controls
 
 4 / 4 · Hypothetical monthly economics · all currency USD, pre-tax
 
-Google Sheet: https://docs.google.com/spreadsheets/d/1BclVbPPVFTLHb1R1XT82PBmMfqERoWuT3W7dXH_aJjQ/edit?usp=drive_link | Prototype: https://cosmic-torte-9064aa.netlify.app/
+Public Google Sheet: https://docs.google.com/spreadsheets/d/1BclVbPPVFTLHb1R1XT82PBmMfqERoWuT3W7dXH_aJjQ/edit?usp=drive_link | Public prototype: https://cosmic-torte-9064aa.netlify.app/
 Workbook: cheerio_financial_model.xlsx, six sheets with editable assumptions and visible formula text. Only 5,000 active businesses comes from the brief; other figures below are assumptions.
 
 | Item | Base case / workbook reference |
