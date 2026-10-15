@@ -36,7 +36,7 @@ styles.add(ParagraphStyle(name='SubCustom',fontName='CheerioSans',fontSize=9.5,l
 styles.add(ParagraphStyle(name='HCustom',fontName='CheerioBold',fontSize=12,leading=16,textColor=colors.HexColor('#286046'),spaceBefore=10,spaceAfter=6))
 styles.add(ParagraphStyle(name='BodyCustom',fontName='CheerioSans',fontSize=9.5,leading=13.5,textColor=colors.HexColor('#31483a'),spaceAfter=7))
 styles.add(ParagraphStyle(name='CellCustom',fontName='CheerioSans',fontSize=8.3,leading=11.5,textColor=colors.HexColor('#31483a')))
-styles.add(ParagraphStyle(name='CaptionCustom',fontName='CheerioSans',fontSize=8,leading=10,textColor=colors.HexColor('#6c8172'),spaceAfter=5))
+styles.add(ParagraphStyle(name='CaptionCustom',fontName='CheerioSans',fontSize=6.5,leading=8,textColor=colors.HexColor('#6c8172'),spaceAfter=5))
 flow=[];md=['# Cheerio Resolve — Assignment A','Pranay Kumar Akuthota · 14 October 2026 · AI-assisted draft for personal review','']
 def para(text,style='BodyCustom'):
  flow.append(Paragraph(escape(text),styles[style]));md.append(text+'\n')
